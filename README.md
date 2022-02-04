@@ -2,9 +2,13 @@
 
 ## I'm a Senior Systems Engineer!
 
+Hi, I am Dave Furmidge a Senior Systems Engineer with EPAM. I live in Manchester, UK. I am a multi skilled Engineer with 25+ years of strong experience in RDBMS & SQL, .NET Development, CI/CD and DevOps areas with an ability to learn quickly. I hold multiple cloud certifications which were all achieved with my own personal study. I have UK Government SC Clearance. I’m a fan of Manchester United, I’m a qualified spinning instructor and I like walking my dog.
 
-I have over 26 years experience in IT. My background is maninly in development and SQL Server. I currently hold a number of cloud certifications across all 3 of the main cloud providers.
-I have many years experience working for Government departments using Agile, Azure DevOps, IaaC, CI/CD etc
+![Azure badges](https://raw.githubusercontent.com/devopswithdave/devopswithdave/main/assets/Azure-badges.jpg)
+
+![GCP badges](https://raw.githubusercontent.com/devopswithdave/devopswithdave/main/assets/GCP-badges.jpg)
+
+![AWS badges](https://raw.githubusercontent.com/devopswithdave/devopswithdave/main/assets/AWS-badges.jpg)
 
 ### Connect with me:
 
