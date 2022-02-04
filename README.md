@@ -26,7 +26,7 @@ Hi, I am Dave Furmidge a Senior Systems Engineer with EPAM. I live in Manchester
 [twitter]: https://twitter.com/devopswithdave
 [youtube]: https://www.youtube.com/channel/UC55X6gnacARxLFW_VfAUp8g
 [linkedin]: https://www.linkedin.com/in/dave-furmidge-17376525/
-[instagram]: https://www.instagram.com/devopswithdave
+[instagram]: https://www.instagram.com/devopswithdave.  
 
 :zap: GitHub Stats
 
