@@ -1,21 +1,29 @@
-### Hi there, I'm [Dave Furmidge][website] 👋 💻
+### Hi there, I'm [Dave Furmidge][website]
+
+## I'm a Senior Systems Engineer!
 
 
+I have over 26 years experience in IT. My background is maninly in development and SQL Server. I currently hold a number of cloud certifications across all 3 of the main cloud providers.
+I have many years experience working for Government departments using Agile, Azure DevOps, IaaC, CI/CD etc
+
+### Connect with me:
+
+[<img align="left" alt="About Me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][cvwebsite] 
+[<img align="left" alt="DevOpsWithDave" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/sk4red/sk4redmaster/assets/youtube.svg" />][youtube]
+[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/sk4red/sk4red/master/assets/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/sk4red/sk4red/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/sk4red/sk4red/master/assets/instagram.png" />][instagram]
+
+<br />
+
+[cvwebsite]: https://www.furmidge.uk
 [website]: https://www.devopswithdave.com
-[cdwebsite]: https://coderdave.io
-[blog]: https://dev.to/n3wt0n
-[twitter]: https://twitter.com/davidebenvegnu
-[youtube]: https://www.youtube.com/CoderDave
-[youtube-personal]: https://www.youtube.com/DavideBenvegnu
-[youtube-cameras]: https://www.youtube.com/channel/UC-D1BZtB-ifRhxLmRq1y-Ug
-[linkedin]: https://linkedin.com/in/davidebenvegnu
-[instagram]: https://www.instagram.com/davide.benvegnu
-[patreon]: https://patreon.com/CoderDave
-[paypal]: https://paypal.me/dabenveg
-[buymeacoffee]: https://buymeacoffee.com/CoderDave
-[githubsponsor]: https://github.com/sponsors/n3wt0n?o=esb
-[podcast]: https://geni.us/cdpodcast
-[discord]: https://discord.gg/sJFmYC9TXb
+[twitter]: https://twitter.com/devopswithdave
+[youtube]: https://www.youtube.com/devopswithdave
+[linkedin]: https://www.linkedin.com/in/dave-furmidge-17376525/
+[instagram]: https://www.instagram.com/devopswithdave
+
 <!--
 **devopswithdave/devopswithdave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
