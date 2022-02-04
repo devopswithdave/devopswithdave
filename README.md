@@ -10,10 +10,10 @@ I have many years experience working for Government departments using Agile, Azu
 
 [<img align="left" alt="About Me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][cvwebsite] 
 [<img align="left" alt="DevOpsWithDave" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/sk4red/sk4redmaster/assets/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/sk4red/sk4red/master/assets/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/sk4red/sk4red/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/sk4red/sk4red/master/assets/instagram.png" />][instagram]
+[<img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/sk4red/sk4red/main/assets/youtube.svg" />][youtube]
+[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/sk4red/sk4red/main/assets/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/sk4red/sk4red/main/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/sk4red/sk4red/main/assets/instagram.png" />][instagram]
 
 <br />
 
