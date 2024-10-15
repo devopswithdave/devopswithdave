@@ -1,6 +1,6 @@
 ### Hi there, I'm [Dave Furmidge][website]
 
-## I'm a Senior Systems Engineer!
+## I'm a Lead Systems Engineer!
 
 Hi, I am Dave Furmidge a Senior Systems Engineer with EPAM. I live in Manchester, UK. I am a multi skilled Engineer with 25+ years of strong experience in RDBMS & SQL, .NET Development, CI/CD and DevOps areas with an ability to learn quickly. I hold multiple cloud certifications which were all achieved with my own personal study. I have UK Government SC Clearance. I’m a fan of Manchester United, I’m a qualified spinning instructor and I like walking my dog.
 
